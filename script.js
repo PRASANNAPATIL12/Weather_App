@@ -17,7 +17,7 @@ const getWeather=(city)=>{
     .then((response) => {
         
     
-    console.log(response)
+    // console.log(response)
     
     
     
